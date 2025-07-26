@@ -1,0 +1,116 @@
+\documentclass[11pt]{article}
+\usepackage[letterpaper, top=0.5in, bottom=0.5in, left=0.5in, right=0.5in]{geometry}
+\usepackage{fontspec}
+\setmainfont{Fira Sans} % Using a standard, widely available font
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\raggedright
+\pagestyle{empty}
+
+\titleformat{\section}{\bfseries\Large}{}{0pt}{}[\vspace{1pt}\titlerule\vspace{-6.5pt}]
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$}
+\setlist[itemize]{itemsep=-2pt, leftmargin=12pt, topsep=7pt}
+
+\begin{document}
+
+\centerline{\Huge Chris Goetz}
+\vspace{5pt}
+\centerline{\href{tel:409.247.4746}{409.247.4746} | \href{mailto:hire.me@chrisgoetz.com}{hire.me@chrisgoetz.com} | \href{https://www.chrisgoetz.com}{chrisgoetz.com} | \href{https://linkedin.com/in/chrisgoetz}{linkedin.com/in/chrisgoetz} | \href{https://github.com/christopherg}{github.com/christopherg}}
+\vspace{-10pt}
+
+\section*{Summary}
+Principal Cloud Engineer at AWS with over a decade of experience in cloud operations, infrastructure architecture, and technical leadership. Proven ability to solve complex technical problems, influence product strategy, and drive industry-leading customer outcomes across global-scale environments.
+
+\vspace{-6.5pt}
+
+\section*{Skills}
+\textbf{Cloud Computing:} AWS (EC2, EBS, S3, IAM, RDS, VPC, CloudFormation, Lambda, ELB, Route 53), GCP \\
+\textbf{Infrastructure as Code:} Terraform, CloudFormation, Ansible, CDK \\
+\textbf{Programming \& Scripting:} Python, Bash, Java, PowerShell, PHP, Perl \\
+\textbf{Containers \& Orchestration:} Docker, ECS, EKS \\
+\textbf{Observability:} CloudWatch, Grafana, Prometheus, ELK Stack, PRTG, Splunk, New Relic, Wireshark \\
+\textbf{Databases:} PostgreSQL, MySQL, DynamoDB, MS SQL, SQLite \\
+\textbf{Networking:} VPN, BGP, DNS, Load Balancing, HAProxy \\
+\textbf{Security:} IAM Policies, KMS, Encryption, Compliance Best Practices \\
+\textbf{DevOps:} CI/CD, Jenkins, Blue-Green Deployments, Rollback Strategies \\
+\textbf{Operating Systems:} Linux (RHEL, Solaris), Unix, AIX, Windows Server \\
+\textbf{Virtualization:} VMware, KVM, XEN, Hyper-V
+
+\vspace{-6.5pt}
+
+\section*{Experience}
+{\large\textbf{Principal Cloud Support Engineer,}} {Amazon Web Services (AWS)} -- REMOTE \hfill 2024 -- Present \\
+\vspace{-9pt}
+\begin{itemize}
+    \item Architect and execute strategic technical initiatives to enhance customer success and mitigate business risk.
+    \item Provide critical industry context to senior leadership, directly influencing product roadmaps and long-term technology decisions.
+    \item Lead resolution of mission-critical, complex, and undefined technical escalations for Fortune 500 clients.
+    \item Deconstruct ambiguous problems into actionable solutions to ensure service robustness, stability, and scalability.
+    \item Design and implement scalable support frameworks, mechanisms, and operational best practices across the organization.
+\end{itemize}
+
+{\large\textbf{Senior Cloud Support Engineer,}} {Amazon Web Services (AWS)} -- REMOTE \hfill 2021 -- 2024 \\
+\vspace{-9pt}
+\begin{itemize}
+    \item Led end-to-end design and delivery of simplified solutions in complex technical spaces with a high degree of autonomy.
+    \item Drove resolution of complex business and technology problems, clearing blockers and escalating to ensure timely delivery.
+    \item Mentored and developed junior engineers, improving their skills and knowledge.
+\end{itemize}
+
+{\large\textbf{Cloud Support Engineer,}} {Amazon Web Services (AWS)} -- REMOTE \hfill 2013 -- 2021 \\
+\vspace{-9pt}
+\begin{itemize}
+    \item Provided expert technical support for core AWS services (EC2, S3, VPC, RDS) to enterprise customers.
+    \item Led customer communications during critical events, applying advanced troubleshooting to deliver unique solutions.
+    \item Independently managed enterprise cases of all severities, assessing customer practices and recommending operational improvements.
+\end{itemize}
+
+{\large\textbf{UNIX/Linux Administrator, Sr Consultant,}} {Allstate Insurance} -- Northbrook, IL \hfill 2012 -- 2013 \\
+\vspace{-9pt}
+\begin{itemize}
+    \item Managed the lifecycle of over 3,500 Red Hat Enterprise Linux and Solaris systems, including patching, software installation, and troubleshooting.
+    \item Developed and maintained complex shell, Perl, and Python scripts to automate server infrastructure.
+\end{itemize}
+
+{\large\textbf{Gaming Systems Linux/Unix Engineer,}} {Kewadin Casinos} -- Sault Ste. Marie, MI \hfill 2005 -- 2012 \\
+\vspace{-9pt}
+\begin{itemize}
+    \item Provided 24x7 operational coverage for a complex network of AIX, Red Hat Enterprise Linux, and other mixed Linux distributions.
+    \item Maintained the LAN, including daily monitoring for system failures, data backups, performance tracking, and hardware/software upgrades.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Projects}
+{\large\textbf{VoIP \& Messaging Communications Platform}} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Designed and deployed a highly available, event-driven messaging platform integrating Twilio, VoIP.ms, and DIDWW. Built on AWS Lambda, SQS, and API Gateway, the solution supports SMS, MMS, and voice with retry logic, billing via Stripe, and full JWT-based authentication.
+\end{itemize}
+
+{\large\textbf{Self-Hosted Infrastructure Automation}} \\
+\vspace{-9pt}
+\begin{itemize}
+  \item Automated deployments for WireGuard VPN, Pi-hole DNS filtering, and Authentik SSO using Docker Compose and Terraform across hybrid environments (GCP, AWS, local). Includes CI/CD workflows for configuration updates and a storage cluster (JBOD) using software RAID (mdadm), SMART monitoring, and email alerting.
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Certifications}
+\begin{itemize}
+    \item AWS Certified Solutions Architect -- Professional
+    \item AWS Certified DevOps Engineer -- Professional
+    \item AWS Certified SysOps Administrator
+    \item ITIL Foundations v3
+\end{itemize}
+
+\vspace{-18.5pt}
+
+\section*{Education}
+{\large\textbf{Lake Superior State University}} -- Sault Sainte Marie, MI \hfill 2008 -- 2012 \\
+Bachelor of Science in Computer Networking, Associate of Science in Computer Science
+
+\end{document}
