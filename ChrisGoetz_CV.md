@@ -32,42 +32,52 @@ I am a Principal Cloud Engineer at AWS with a proven track record of solving com
 **Amazon Web Services (AWS)** — *Remote*  
 **2024 – Present**
 
-- Lead resolution of highly ambiguous technical issues spanning multiple AWS services.
-- Architect and execute strategic initiatives influencing product roadmaps and technology decisions.
-- Drive support strategy for high-profile customers and engage with AWS service teams.
-- Mentor senior engineers and contribute to global knowledge sharing and promotion evaluations.
-- Launch tooling and operational processes to scale support operations.
-- Represent AWS Support in executive-level briefings and public forums.
+- Lead resolution of highly ambiguous technical issues spanning multiple AWS services, often with no clear owner.
+- Architect and execute strategic technical initiatives by providing critical industry context to senior leadership, directly influencing product roadmaps and long-term technology decisions to enhance customer success and mitigate business risk.
+- Drive support strategy for high-profile customers, delivering guidance during critical escalations and influencing AWS service teams to remove customer pain points.
+- Influence long-term roadmap and feature direction of AWS services through engagement with service team leadership.
+- Lead the resolution of mission-critical, significantly complex, and often undefined technical escalations for AWS's largest clients, deconstructing ambiguous problems into actionable solutions to ensure service robustness, stability, and scalability.
+- Design and implement scalable support frameworks, mechanisms, and operational best practices across the organization, eliminating systemic bottlenecks and enabling a force-multiplier effect on global support teams.
+- Spearhead the professional development of the global engineering community by mentoring senior engineers, performing Principal-level promotion assessments, and disseminating knowledge on emerging technology trends and operational best practices.
+- Drive the diagnosis and resolution of endemic, multi-system technical issues, architecting exemplary solutions that balance cost-effectiveness, architectural complexity, and long-term customer value.
+- Create, launch, and evangelize tooling and operational processes to streamline repetitive efforts and scale support operations.
+- Represent AWS Support in customer briefings, large-scale events, and executive-level escalations.
 
 ### Senior Cloud Support Engineer  
 **Amazon Web Services (AWS)** — *Remote*  
 **2021 – 2024**
 
-- Designed and delivered solutions with high autonomy in complex tech environments.
-- Mentored engineers and improved team operations and process effectiveness.
-- Simplified large problems and enabled distributed problem-solving.
+- Led the end-to-end design and delivery of simplified solutions in complex technical spaces, working with a high degree of autonomy.
+- Drove the resolution of complex business and technology problems, clearing blockers and escalating when appropriate to ensure timely delivery.
+- Mentored and developed junior engineers, improving their skills, knowledge, and ability to get things done.
+- Simplified and drove the use of best practices and operational excellence procedures, identifying and optimizing processes to improve team efficiency.
+- Influenced and force-multiplied by dividing large problems into sub-problems that could be worked in parallel by multiple engineers.
 
 ### Cloud Support Engineer  
 **Amazon Web Services (AWS)** — *Remote*  
 **2013 – 2021**
 
-- Supported enterprise clients across EC2, S3, VPC, RDS, and more.
-- Managed high-severity cases and acted as Subject Matter Expert (SME) in key services.
-- Created public-facing content and technical how-to materials.
+- Provided high-quality technical support for a wide range of AWS services, including EC2, S3, VPC, and RDS, for enterprise-level customers.
+- Drove customer communication during critical events, and applied advanced troubleshooting techniques to provide unique solutions.
+- Worked independently to handle enterprise cases of all severities, assessing customer technical practices and recommending methods for effective service operations.
+- Became a Subject Matter Expert (SME) in one or more services, handling escalations and reviewing cases related to my area of expertise.
+- Created effective public content, including knowledge-base articles, how-to videos, and technical articles for the AWS customer community.
 
 ### UNIX/Linux Administrator, Sr Consultant  
 **Allstate Insurance** — *Northbrook, IL*  
 **2012 – 2013**
 
-- Managed 3,500+ Linux/Solaris systems, automation via Perl/Python/shell scripts.
-- Participated in global team operations with continuous uptime focus.
+- Managed the lifecycle of over 3,500 Red Hat Enterprise Linux and Solaris systems, including patching, software installation, and troubleshooting.
+- Developed and maintained complex shell, Perl, and Python scripts to automate server infrastructure.
+- Collaborated with a geographically dispersed team in a “follow the sun” workflow to optimize infrastructure and minimize downtime.
 
 ### Gaming Systems Linux/Unix Engineer  
 **Kewadin Casinos** — *Sault Ste. Marie, MI*  
 **2005 – 2012**
 
-- Provided 24x7 support for AIX, RHEL, and mixed environments.
-- Maintained LAN, backups, upgrades, and virtualization systems (Hyper-V, KVM, VMware, etc.).
+- Provided 24x7 operational coverage for a complex network of AIX, Red Hat Enterprise Linux, and other mixed Linux distributions.
+- Maintained the LAN, including daily monitoring for system failures, data backups, performance tracking, and hardware/software upgrades.
+- Supported multiple operating systems and virtualization technologies, including Linux, UNIX, AIX, AS/400, Windows, Mac OS, Hyper-V, VMware ESX, and KVM.
 
 ---
 
